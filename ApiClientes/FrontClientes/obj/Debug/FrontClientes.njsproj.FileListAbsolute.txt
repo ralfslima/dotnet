@@ -1,0 +1,3 @@
+C:\Users\ralf.lima\source\repos\ApiClientes\FrontClientes\obj\Debug\FrontClientes.njsproj.AssemblyReference.cache
+C:\Users\ralf.lima\source\repos\ApiClientes\FrontClientes\obj\Debug\FrontClientes.njsproj.CoreCompileInputs.cache
+C:\Users\ralf.lima\source\repos\ApiClientes\FrontClientes\bin\Microsoft.NodejsTools.WebRole.dll
